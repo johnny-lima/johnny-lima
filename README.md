@@ -58,6 +58,15 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
 
 <img 
     align="left" 
+    alt="R" 
+    title="R"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" 
+/>
+
+<img 
+    align="left" 
     alt="Google Cloud"
     title="Google Cloud"
     width="30px" 
