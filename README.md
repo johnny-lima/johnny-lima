@@ -121,6 +121,15 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
 
 <img 
     align="left" 
+    alt="Databricks"
+    title="Databricks" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.primarymarkets.com/wp-content/uploads/2024/03/Databricks-Circle-Logo-option-2.png"
+/>
+
+<img 
+    align="left" 
     alt="ChatGPT"
     title="ChatGPT"
     width="30px" 
