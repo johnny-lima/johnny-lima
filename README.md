@@ -49,6 +49,15 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
 
 <img 
     align="left" 
+    alt="postgresql" 
+    title="postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" 
+/>
+
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -99,6 +108,15 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.pngmart.com/files/23/Aws-Logo-PNG-Image.png" 
 />
 
 <img 
