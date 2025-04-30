@@ -67,6 +67,15 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
 
 <img 
     align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" 
+/>
+
+<img 
+    align="left" 
     alt="Google Cloud"
     title="Google Cloud"
     width="30px" 
