@@ -76,6 +76,24 @@ Estou migrando para Ciência de Dados, buscando aprimorar meus conhecimentos em 
 
 <img 
     align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdnlogo.com/logos/t/73/tableau-software.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Matplotlib" 
+    title="Matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" 
+/>
+
+<img 
+    align="left" 
     alt="Google Cloud"
     title="Google Cloud"
     width="30px" 
